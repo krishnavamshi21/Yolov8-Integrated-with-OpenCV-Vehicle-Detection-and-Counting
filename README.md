@@ -1,4 +1,4 @@
-# YOLOv8-DeepSort-Object-Detection-and-Tracking
+# Yolov8-Integrated-with-OpenCV-Vehicle-Detection-and-Counting
 Vehicles Detection, Tracking and Counting using YOLOv8 and DeepSort
 
 ---
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 - Go to the src folder
 ```
-cd YOLOv8-DeepSort-Object-Detection-and-Tracking\src
+cd Yolov8-Integrated-with-OpenCV-Vehicle-Detection-and-Counting\src
 ```
 - Run the code
 ```
