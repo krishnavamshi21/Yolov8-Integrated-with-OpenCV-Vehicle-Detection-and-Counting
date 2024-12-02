@@ -7,7 +7,7 @@ Vehicles Detection, Tracking and Counting using YOLOv8 and DeepSort
 
 - Clone the repository
 ```
-git clone https://github.com/MohammadRoodbari/YOLOv8-DeepSort-Object-Detection-and-Tracking.git
+git clone https://github.com/krishnavamshi21/Yolov8-Integrated-with-OpenCV-Vehicle-Detection-and-Counting.git
 ```
 - Install the dependecies
 ```
